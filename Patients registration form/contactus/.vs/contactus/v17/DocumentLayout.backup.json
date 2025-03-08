@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|c:\\users\\ogutu\\onedrive\\desktop\\3.2\\contactus\\contactus\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|solutionrelative:contactus\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|c:\\users\\ogutu\\onedrive\\desktop\\3.2\\contactus\\contactus\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|solutionrelative:contactus\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|c:\\users\\ogutu\\onedrive\\desktop\\3.2\\contactus\\contactus\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|solutionrelative:contactus\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|c:\\users\\ogutu\\onedrive\\desktop\\3.2\\contactus\\contactus\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|solutionrelative:contactus\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|c:\\users\\ogutu\\onedrive\\desktop\\3.2\\contactus\\contactus\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6989913B-EA7F-430C-862D-781D804AEAC7}|contactus\\contactus.csproj|solutionrelative:contactus\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\contact.cshtml.cs",
+              "RelativeDocumentMoniker": "contactus\\Pages\\contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\contact.cshtml.cs",
+              "RelativeToolTip": "contactus\\Pages\\contact.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAJCEnaQrwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:16:17.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\contact.cshtml",
+              "RelativeDocumentMoniker": "contactus\\Pages\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\contact.cshtml",
+              "RelativeToolTip": "contactus\\Pages\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:07:08.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "contactus\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "contactus\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAEDjCwwuwB8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T13:59:29.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\about.cshtml",
+              "RelativeDocumentMoniker": "contactus\\Pages\\about.cshtml",
+              "ToolTip": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\about.cshtml",
+              "RelativeToolTip": "contactus\\Pages\\about.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T14:01:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "contactus\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\contactus\\contactus\\Pages\\Index.cshtml",
+              "RelativeToolTip": "contactus\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T13:55:39.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

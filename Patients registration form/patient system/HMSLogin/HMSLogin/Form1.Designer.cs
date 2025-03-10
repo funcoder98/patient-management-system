@@ -30,8 +30,8 @@
         {
             panel1 = new Panel();
             label1 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            PatName = new TextBox();
+            Patpass = new TextBox();
             button1 = new Button();
             label2 = new Label();
             panel1.SuspendLayout();
@@ -59,25 +59,25 @@
             label1.Text = "Patient's Login";
             label1.Click += label1_Click;
             // 
-            // textBox1
+            // PatName
             // 
-            textBox1.BorderStyle = BorderStyle.FixedSingle;
-            textBox1.ForeColor = SystemColors.ControlDark;
-            textBox1.Location = new Point(108, 193);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(181, 27);
-            textBox1.TabIndex = 2;
-            textBox1.Text = "patient's name";
+            PatName.BorderStyle = BorderStyle.FixedSingle;
+            PatName.ForeColor = SystemColors.ControlDark;
+            PatName.Location = new Point(108, 193);
+            PatName.Name = "PatName";
+            PatName.Size = new Size(181, 27);
+            PatName.TabIndex = 2;
+            PatName.Text = "patient's name";
             // 
-            // textBox2
+            // Patpass
             // 
-            textBox2.BorderStyle = BorderStyle.FixedSingle;
-            textBox2.ForeColor = SystemColors.ControlDark;
-            textBox2.Location = new Point(108, 259);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(181, 27);
-            textBox2.TabIndex = 3;
-            textBox2.Text = "enter password";
+            Patpass.BorderStyle = BorderStyle.FixedSingle;
+            Patpass.ForeColor = SystemColors.ControlDark;
+            Patpass.Location = new Point(108, 259);
+            Patpass.Name = "Patpass";
+            Patpass.Size = new Size(181, 27);
+            Patpass.TabIndex = 3;
+            Patpass.Text = "enter password";
             // 
             // button1
             // 
@@ -114,8 +114,8 @@
             BackColor = SystemColors.ControlLight;
             ClientSize = new Size(448, 508);
             Controls.Add(label2);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(Patpass);
+            Controls.Add(PatName);
             Controls.Add(button1);
             Controls.Add(panel1);
             ForeColor = SystemColors.InfoText;
@@ -132,8 +132,8 @@
         #endregion
 
         private Panel panel1;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox PatName;
+        private TextBox Patpass;
         private Button button1;
         private Label label1;
         private Label label2;

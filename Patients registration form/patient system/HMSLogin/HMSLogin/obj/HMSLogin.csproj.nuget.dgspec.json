@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\HMSLogin\\HMSLogin\\HMSLogin.csproj": {}
+    "C:\\Users\\Ogutu\\OneDrive\\Documents\\GitHub\\patient-management-system\\Patients registration form\\patient system\\HMSLogin\\HMSLogin\\HMSLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\HMSLogin\\HMSLogin\\HMSLogin.csproj": {
+    "C:\\Users\\Ogutu\\OneDrive\\Documents\\GitHub\\patient-management-system\\Patients registration form\\patient system\\HMSLogin\\HMSLogin\\HMSLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\HMSLogin\\HMSLogin\\HMSLogin.csproj",
+        "projectUniqueName": "C:\\Users\\Ogutu\\OneDrive\\Documents\\GitHub\\patient-management-system\\Patients registration form\\patient system\\HMSLogin\\HMSLogin\\HMSLogin.csproj",
         "projectName": "HMSLogin",
-        "projectPath": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\HMSLogin\\HMSLogin\\HMSLogin.csproj",
+        "projectPath": "C:\\Users\\Ogutu\\OneDrive\\Documents\\GitHub\\patient-management-system\\Patients registration form\\patient system\\HMSLogin\\HMSLogin\\HMSLogin.csproj",
         "packagesPath": "C:\\Users\\Ogutu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ogutu\\OneDrive\\Desktop\\3.2\\HMSLogin\\HMSLogin\\obj\\",
+        "outputPath": "C:\\Users\\Ogutu\\OneDrive\\Documents\\GitHub\\patient-management-system\\Patients registration form\\patient system\\HMSLogin\\HMSLogin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,16 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -176,6 +176,7 @@
             this.button1.TabIndex = 14;
             this.button1.Text = "Register";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -212,6 +213,7 @@
             this.button4.TabIndex = 17;
             this.button4.Text = "Home";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 

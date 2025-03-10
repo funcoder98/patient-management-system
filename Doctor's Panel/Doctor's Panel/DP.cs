@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Doctor_s_Panel
 {
-    public partial class Form1: Form
+    public partial class Form2: Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
@@ -85,6 +85,11 @@ namespace Doctor_s_Panel
             this.Hide();
             vrecords r = new vrecords();
             r.Show();
+        }
+
+        private void Profile_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Doctor_s_Panel
 {
-    partial class Form1
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
@@ -75,8 +75,8 @@
             // 
             // label1
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 20F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -102,6 +102,7 @@
             this.Profile.Name = "Profile";
             this.Profile.Size = new System.Drawing.Size(568, 169);
             this.Profile.TabIndex = 1;
+            this.Profile.Paint += new System.Windows.Forms.PaintEventHandler(this.Profile_Paint);
             // 
             // textBox9
             // 
@@ -153,7 +154,7 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.Control;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 8F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(430, 122);
+            this.button1.Location = new System.Drawing.Point(430, 121);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(132, 37);
             this.button1.TabIndex = 0;

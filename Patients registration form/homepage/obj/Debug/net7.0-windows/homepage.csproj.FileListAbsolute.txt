@@ -1,0 +1,6 @@
+C:\Users\Taffi\Source\Repos\patient-management-system\Patients registration form\homepage\obj\Debug\net7.0-windows\homepage.Form2.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Patients registration form\homepage\obj\Debug\net7.0-windows\homepage.csproj.GenerateResource.cache
+C:\Users\Taffi\Source\Repos\patient-management-system\Patients registration form\homepage\obj\Debug\net7.0-windows\homepage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taffi\Source\Repos\patient-management-system\Patients registration form\homepage\obj\Debug\net7.0-windows\homepage.AssemblyInfoInputs.cache
+C:\Users\Taffi\Source\Repos\patient-management-system\Patients registration form\homepage\obj\Debug\net7.0-windows\homepage.AssemblyInfo.cs
+C:\Users\Taffi\Source\Repos\patient-management-system\Patients registration form\homepage\obj\Debug\net7.0-windows\homepage.csproj.CoreCompileInputs.cache

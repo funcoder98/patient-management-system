@@ -13,3 +13,18 @@ C:\Users\G\Downloads\School\Y3S2\CMT 307; .NET Programming\Projects\Doctor's Pan
 C:\Users\G\Downloads\School\Y3S2\CMT 307; .NET Programming\Projects\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.vschedule.resources
 C:\Users\G\Downloads\School\Y3S2\CMT 307; .NET Programming\Projects\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.Addrecords.resources
 C:\Users\G\Downloads\School\Y3S2\CMT 307; .NET Programming\Projects\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.vrecords.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\bin\Debug\Doctor's Panel.exe.config
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\bin\Debug\Doctor's Panel.exe
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\bin\Debug\Doctor's Panel.pdb
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctors Panel.csproj.AssemblyReference.cache
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.Addrecords.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.Form1.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.Properties.Resources.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.Surgeries.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.Timeslots.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.vrecords.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor_s_Panel.vschedule.resources
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctors Panel.csproj.GenerateResource.cache
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctors Panel.csproj.CoreCompileInputs.cache
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor's Panel.exe
+C:\Users\Taffi\Source\Repos\patient-management-system\Doctor's Panel\Doctor's Panel\obj\Debug\Doctor's Panel.pdb

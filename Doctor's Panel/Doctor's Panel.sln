@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctors Panel", "Doctor's Panel\Doctors Panel.csproj", "{C9517F7C-0F64-4CD7-A7D5-4191CA1EC67B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home", "home\home.csproj", "{9A1785AA-BC4F-4CC5-A288-8991CA21F8C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9517F7C-0F64-4CD7-A7D5-4191CA1EC67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9517F7C-0F64-4CD7-A7D5-4191CA1EC67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9517F7C-0F64-4CD7-A7D5-4191CA1EC67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1785AA-BC4F-4CC5-A288-8991CA21F8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1785AA-BC4F-4CC5-A288-8991CA21F8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1785AA-BC4F-4CC5-A288-8991CA21F8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1785AA-BC4F-4CC5-A288-8991CA21F8C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

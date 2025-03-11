@@ -30,10 +30,11 @@
         {
             panel1 = new Panel();
             label1 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            patientname = new TextBox();
+            patientpasswd = new TextBox();
             button1 = new Button();
             label2 = new Label();
+            patientsid = new TextBox();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -59,25 +60,25 @@
             label1.Text = "Patient's Login";
             label1.Click += label1_Click;
             // 
-            // textBox1
+            // patientname
             // 
-            textBox1.BorderStyle = BorderStyle.FixedSingle;
-            textBox1.ForeColor = SystemColors.ControlDark;
-            textBox1.Location = new Point(108, 193);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(181, 27);
-            textBox1.TabIndex = 2;
-            textBox1.Text = "patient's name";
+            patientname.BorderStyle = BorderStyle.FixedSingle;
+            patientname.ForeColor = SystemColors.ControlDark;
+            patientname.Location = new Point(106, 211);
+            patientname.Name = "patientname";
+            patientname.Size = new Size(181, 27);
+            patientname.TabIndex = 2;
+            patientname.Text = "patient's name";
             // 
-            // textBox2
+            // patientpasswd
             // 
-            textBox2.BorderStyle = BorderStyle.FixedSingle;
-            textBox2.ForeColor = SystemColors.ControlDark;
-            textBox2.Location = new Point(108, 259);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(181, 27);
-            textBox2.TabIndex = 3;
-            textBox2.Text = "enter password";
+            patientpasswd.BorderStyle = BorderStyle.FixedSingle;
+            patientpasswd.ForeColor = SystemColors.ControlDark;
+            patientpasswd.Location = new Point(108, 259);
+            patientpasswd.Name = "patientpasswd";
+            patientpasswd.Size = new Size(181, 27);
+            patientpasswd.TabIndex = 3;
+            patientpasswd.Text = "enter password";
             // 
             // button1
             // 
@@ -107,15 +108,26 @@
             label2.Text = "dont have an account?";
             label2.Click += label2_Click;
             // 
+            // patientsid
+            // 
+            patientsid.BorderStyle = BorderStyle.FixedSingle;
+            patientsid.ForeColor = SystemColors.ControlDark;
+            patientsid.Location = new Point(106, 163);
+            patientsid.Name = "patientsid";
+            patientsid.Size = new Size(181, 27);
+            patientsid.TabIndex = 5;
+            patientsid.Text = "patient's ID";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLight;
             ClientSize = new Size(448, 508);
+            Controls.Add(patientsid);
             Controls.Add(label2);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(patientpasswd);
+            Controls.Add(patientname);
             Controls.Add(button1);
             Controls.Add(panel1);
             ForeColor = SystemColors.InfoText;
@@ -132,10 +144,11 @@
         #endregion
 
         private Panel panel1;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox patientname;
+        private TextBox patientpasswd;
         private Button button1;
         private Label label1;
         private Label label2;
+        private TextBox patientsid;
     }
 }
